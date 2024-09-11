@@ -1,3 +1,3 @@
 public interface IProcesarOrdenDHL {
-    void enviarOrdenDHL();
+    void enviarOrdenDHL(Orden orden);
 }
