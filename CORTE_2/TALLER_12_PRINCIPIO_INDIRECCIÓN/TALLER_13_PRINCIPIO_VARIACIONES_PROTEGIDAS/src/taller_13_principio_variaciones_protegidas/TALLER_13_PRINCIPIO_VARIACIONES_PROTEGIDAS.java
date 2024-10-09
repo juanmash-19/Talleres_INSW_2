@@ -2,13 +2,13 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package taller_11_tienda_en_línea;
+package taller_13_principio_variaciones_protegidas;
 
 /**
  *
  * @author juanm
  */
-public class Taller_11_Tienda_en_línea {
+public class TALLER_13_PRINCIPIO_VARIACIONES_PROTEGIDAS {
 
     /**
      * @param args the command line arguments
