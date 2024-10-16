@@ -2,13 +2,13 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package taller_13_principio_variaciones_protegidas;
+package taller_14_pruebas_unitarias;
 
 /**
  *
  * @author juanm
  */
-public class TALLER_13_PRINCIPIO_VARIACIONES_PROTEGIDAS {
+public class Taller_14_Pruebas_Unitarias {
 
     /**
      * @param args the command line arguments

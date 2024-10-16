@@ -8,6 +8,9 @@ package taller_13_principio_variaciones_protegidas;
  *
  * @author juanm
  */
-public class CanalSMS {
-    
+public class CanalSMS implements CanalNotificacion {
+    @Override
+    public void enviar(Notificacion notificacion) {
+        System.out.println("Enviando SMS: " + notificacion.getTitulo() + " - " + notificacion.getCuerpo());
+    }
 }

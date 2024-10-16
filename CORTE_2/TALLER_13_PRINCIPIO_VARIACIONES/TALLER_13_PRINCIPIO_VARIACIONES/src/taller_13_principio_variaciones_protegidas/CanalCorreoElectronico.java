@@ -8,6 +8,9 @@ package taller_13_principio_variaciones_protegidas;
  *
  * @author juanm
  */
-public class CanalWhatsapp {
-    
+public class CanalCorreoElectronico implements CanalNotificacion {
+    @Override
+    public void enviar(Notificacion notificacion) {
+        System.out.println("Enviando correo electrónico: " + notificacion.getTitulo() + " - " + notificacion.getCuerpo());
+    }
 }
