@@ -1,3 +1,4 @@
+package Pregunta1;
 public class Orden {
     private double precio;
 

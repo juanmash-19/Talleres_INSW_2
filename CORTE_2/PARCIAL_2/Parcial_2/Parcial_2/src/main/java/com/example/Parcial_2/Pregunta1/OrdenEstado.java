@@ -1,3 +1,4 @@
+package Pregunta1;
 public class OrdenEstado {
     public String obtenerEstado(int ordenId) {
         switch (ordenId) {

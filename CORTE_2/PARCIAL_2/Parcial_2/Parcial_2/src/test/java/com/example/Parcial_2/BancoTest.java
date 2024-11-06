@@ -1,4 +1,4 @@
-package com.example.calidadsoftware;
+package Pregunta5;
 
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.BeforeEach;
